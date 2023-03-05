@@ -4,4 +4,6 @@
 * ex1 to ex9 ---------> These files are related to "FUNCTIONS".
 * Rex10 to Rex15 ------> These files are related to "RECRUSION".
 
-* p1 to p9 indicates the "pointers" in c.
+#p1 to p9 indicates the "pointers" in c.
+
+*Basic Examples of arrays
